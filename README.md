@@ -1,1 +1,1 @@
-(Host HTML)(https://google.com)
+[Host HTML](https://google.com)
